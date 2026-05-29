@@ -1,2 +1,2 @@
-# JavaScript-
-Beginners to Advanced
+# JavaScript
+Essentials for Backend Development
