@@ -1,4 +1,4 @@
-// Arrays in JavaScript can store hetrogeneous data-types
+// Arrays in JavaScript can store hetrogeneous data-type
 const myArray = [0,1,2,"devansh",true]
 let heros = ["Spiderman","Captain America","Hulk"]
 let nums = new Array(0,1,2,3,4)
