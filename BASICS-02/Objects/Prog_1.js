@@ -18,7 +18,7 @@ const JSUser = {    // Creation
 }
 // Accessing the Object
 console.log(JSUser) // all details
-// particular detail
+// particular details
 console.log(JSUser.email)  
 console.log(JSUser['name'])
 console.log(JSUser["isLoggedIn"])
