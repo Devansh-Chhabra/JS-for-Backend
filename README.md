@@ -1,2 +1,3 @@
 # JavaScript
-Essentials for Backend Development
+JS Essentials 
+for Backend Development
